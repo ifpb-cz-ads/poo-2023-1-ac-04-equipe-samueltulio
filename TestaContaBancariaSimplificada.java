@@ -6,7 +6,7 @@ class TestaContaBancariaSimplificada{
         ContaBancariaSimplificada c2 = new ContaBancariaSimplificada();
         c2.abreContaSimples("João");
         c1.deposita(200);
-        c2.saçdp = 1000; //atenção!!!
+        c2.saldo = 1000; //atenção!!!
         if(c1.retira(300)){
             System.out.println("Saque realizado com sucesso!");
         }
