@@ -5,6 +5,7 @@ poo-2023-1-ac-04-equipe-samueltulio created by GitHub Classroom
 
 # Atividade do livro Batista Morais
 Atividade questão 1
+
 class Lampada 
 
 String modelo;
@@ -16,6 +17,7 @@ float valor;
 questão 2
 
 class compeonato
+
 String nomeTimes;
 String tiposCompeonato;
 String endereco; (cidade,rua,bairro,numero,nomeCampo)
